@@ -1,0 +1,3 @@
+com\demo\controller\AppController.class
+com\demo\service\ApplicationService.class
+com\demo\beans\Word.class
